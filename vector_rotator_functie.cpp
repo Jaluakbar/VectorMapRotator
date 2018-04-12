@@ -2,6 +2,7 @@
 #include <iostream>
 #include <vector>
 #include <math.h>
+#include "vector_rotator_functie.hpp"
 #define M_PI 3.14159265358979323846264338327950288
 using namespace std;
 
