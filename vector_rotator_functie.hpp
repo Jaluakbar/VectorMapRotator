@@ -6,6 +6,8 @@
 #include <vector>
 #include <math.h>
 
+using namespace std;
+
 vector<vector<bool>> rotate_matrix(vector<vector<bool>> const &, int);
 
 #endif
